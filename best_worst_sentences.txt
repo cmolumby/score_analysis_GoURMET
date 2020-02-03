@@ -1,0 +1,5 @@
+Best sentence id: BG_SE_91.
+Best sentence: When did your case come to the attention of the authorities?
+Worst sentence id: BG_SE_174.
+Worst sentence: “If all you're after is just to entertain, that's where art ends."
+
