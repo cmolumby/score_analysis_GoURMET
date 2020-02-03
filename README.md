@@ -1,4 +1,4 @@
-# gourmet_score_analysis
+# score_analysis
 
 A python script that can be launched from the command line or in any python shell (e.g. IDLE: https://docs.python.org/3/library/idle.html). The program outputs answers to the questions:
 1. Average score given by each evaluator
